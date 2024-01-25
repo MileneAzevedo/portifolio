@@ -1,7 +1,6 @@
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+#Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](![portifolio](https://github.com/MileneAzevedo/portifolio/assets/153302769/00acc0dd-ee1b-426d-817f-fc6fbb14a7d4)
-)
+![image](https://github.com/MileneAzevedo/portifolio/assets/153302769/00acc0dd-ee1b-426d-817f-fc6fbb14a7d4)
 
 
 ## Ferramentas utilizadas:
